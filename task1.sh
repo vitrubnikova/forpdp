@@ -16,7 +16,7 @@ cp Desktop/dir1/file3 Documents/dir2
 
 echo Clearing cash folders...
 rm -R Desktop/dir1
-sudo rm -rf .local/share/Trash/files
+rm -rf .local/share/Trash/files
 
 echo Starting programs...
 skypeforlinux
