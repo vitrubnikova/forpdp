@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Autoclear STF"
+echo "Skill1"
 echo "====================================="
 echo "SENLA QA"
 
